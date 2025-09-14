@@ -1,0 +1,20 @@
+/*
+Theme Name: Basic Business Theme
+Theme URI: https://github.com/edgarodey/Basic-Business-Theme
+Author: Edgar Odey for eoAgency 
+Author URI: https://eoagency.vercel.app
+Description: A minimal, open-source WordPress theme for basic business websites. Features full-width layout, custom homepage with hero, services, business types, and waitlist form.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: basic-business
+Tags: business, full-width, custom-homepage, responsive
+*/
+
+/* Reset and base styles */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Poppins', sans-serif; background: #fff; }
+a { text-decoration: none; }
+img { max-width: 100%; height: auto; }
+
+/* Add any global styles here if needed */
